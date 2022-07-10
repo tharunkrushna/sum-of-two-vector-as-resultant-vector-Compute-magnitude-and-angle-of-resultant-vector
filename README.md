@@ -1,0 +1,1 @@
+# sum-of-two-vector-as-resultant-vector-Compute-magnitude-and-angle-of-resultant-vector
